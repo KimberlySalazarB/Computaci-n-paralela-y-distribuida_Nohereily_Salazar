@@ -316,4 +316,4 @@ Por otra parte, se obtuvo la asignación de objetos y la recolección de Basura,
 
 Por ultimo, se obtine el mensaje "Red de nodos detenida" indica que la ejecución de los nodos a sido detenida.
 
-![](imagen6.png)
+![](imagen7.png)
