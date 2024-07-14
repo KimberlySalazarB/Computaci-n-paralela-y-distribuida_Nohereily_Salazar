@@ -306,14 +306,14 @@ class Network:
 
 En los resultados podemos observar como funciona el acceso a la sección crítica entre los nodos en un orden, asimismo, se muestra como estos nodos dejan de usar esta sección dejando que otros nodos lo utilice.
 
-![](imagen4.png)
+![](imagenes/imagen4.png)
 
 
 Por otra parte, se obtuvo la asignación de objetos y la recolección de Basura, asignando a cada nodo tres direcciones. Después, de la asignación pasa a la recolección de basura, de esta forma, obteniendo el sistema limpio y gestionando la memoria en los nodos de computación.
 
-![](imagen5.png)
+![](imagenes/imagen5.png)
 
 
 Por ultimo, se obtine el mensaje "Red de nodos detenida" indica que la ejecución de los nodos a sido detenida.
 
-![](imagen7.png)
+![](imagenes/imagen7.png)

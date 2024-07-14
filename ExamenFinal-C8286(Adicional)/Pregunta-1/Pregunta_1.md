@@ -191,7 +191,7 @@ if __name__ == "__main__":
 
 #### **RESULTADOS:**
 
-![](imagen2.png)
+![](imagenes/imagen2.png)
 
 #### **Análisis del Ejemplo de Uso:**
 
@@ -209,7 +209,7 @@ El código muestra el error de división por cero igual como pasaria en Jupyter 
 
 La salida muestra el mensaje de error Error en ejecutar celda 1: division by zero
 
-![](imagen1.png)
+![](imagenes/imagen1.png)
 
 *Figura 1: División entre 0 Jupyter Notebook*
 

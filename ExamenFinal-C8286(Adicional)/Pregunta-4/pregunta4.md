@@ -187,7 +187,7 @@ Consistencia
 
 En la simulación, los nodos Raft gestiona  la consistencia eventual mediante la replicación de logs. Cada nodo mantiene un registro de operaciones (log) que se utiliza para mantener un seguimiento de las entradas aplicadas. Cuando un nodo realiza una operación de escritura (put), esta se agrega al log y eventualmente se replica en otros nodos conectados. 
 
-![](imagen5.png)
+![](imagenes/imagen5.png)
 
 Disponibilidad
 
@@ -195,7 +195,7 @@ Tolerancia a Fallos: Los nodos pueden fallar aleatoriamente con una probabilidad
 
 Después de una falla, los nodos intentan reiniciarse y recuperarse para volver a estar disponibles.
 
-![](imagen6.png)
+![](imagenes/imagen6.png)
 
 
 Tolerancia a Particiones
@@ -204,7 +204,7 @@ Manejo de Particiones: Cuando se produce una partición de red, se muestra un me
 
 Después de una partición, se simula la recuperación de la red con un mensaje que indica que la red está recuperándose. 
 
-![](imagen7.png)
+![](imagenes/imagen7.png)
 
 
 Cada uno de estos aspectos ilustra el Teorema CAP, en escenarios prácticos de sistemas distribuidos, equilibrando la consistencia, la disponibilidad y la tolerancia a particiones de manera efectiva.
